@@ -75,12 +75,12 @@
             and hackathon.
             
           </p>
-          <p class="mb-4">
+          <!-- <p class="mb-4">
             I have had some experience in business development through my Master 1 
             internship in a French start-up for 4 months in 2023. I was in charge of gathering 
             customers data, of CRM Management. I also took charge of automations between
             it and other tools thanks to a no-code plateform for more efficiency.
-          </p>
+          </p> -->
           <p>
             I also spent 2 months in Etablissement Français du Sang headquarters in the 
             MIES section (Mission Innovation et Etudes Stratégiques) in 2021. Helping the team 
