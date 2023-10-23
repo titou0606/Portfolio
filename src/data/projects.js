@@ -24,7 +24,7 @@ export default [
     content:
       "Human UI is a Grasshopper plugin that enables the creation of interactive interfaces for Rhino 3D models, commonly used in design workflows to facilitate communication and provide visual feedback.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/blog.png?alt=media&token=7a6e548c-1efe-4451-ac89-3f6a9b310251",
+      "https://i.imgur.com/ZfnKeob.gif",
     /*tech1:
       "https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white",
     tech2:
@@ -41,7 +41,7 @@ export default [
     content:
       "Creating a web app using SVG (Scalable Vector Graphics) format that allows users to draw shapes like rectangles, circles, and triangles.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/personal-portfolio-2102f.appspot.com/o/my%20(1).png?alt=media&token=caa1326b-49b3-412f-a461-059829caf91b",
+      "https://i.imgur.com/JHKP9o3.png",
     tech1:
       "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white",
     tech2:

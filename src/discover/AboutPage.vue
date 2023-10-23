@@ -27,8 +27,8 @@
       <div class="text-center wow fadeInUp">
         <div class="text-2xl mb-3">Personality and Skills</div>
         <h3 class="title-section">
-          <span class="">"Slow and Steady</span>
-          Win The Race"
+          <span>"Some of my</span>
+          competences and interests"
         </h3>
         <div class="divider mx-auto"></div>
       </div>

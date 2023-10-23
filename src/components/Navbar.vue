@@ -68,7 +68,7 @@
               <span class="flex-1 ml-2 whitespace-nowrap">About</span>
             </router-link>
           </li>
-          <li>
+          <!-- <li>
             <router-link
               to="/blog"
               class="flex items-center p-2 ml-2 hover:-mt-1 hover:no-underline text-gray-900 rounded-lg dark:text-white hover:bg-green-100 dark:hover:bg-gray-700"
@@ -86,7 +86,7 @@
               </svg>
               <span class="flex-1 ml-2 whitespace-nowrap">Blogs</span>
             </router-link>
-          </li>
+          </li> -->
 
           <li></li>
           <li></li>

@@ -68,8 +68,6 @@
           </h2>
           <div class="divider"></div>
           <p class="mb-4">
-            I have had some experience in business development through my Master 1 
-            internship in a French start-up for 4 months. 
             I am a last year student in Creative Technology at ESILV (at la Defense).
             I'm doing a double diploma at EMLV in Management. 
             In addition, my school provides me with several formations of soft skills
@@ -79,9 +77,15 @@
           </p>
           <p class="mb-4">
             I have had some experience in business development through my Master 1 
-            internship in a French start-up for 4 months. I was in charge of gathering 
+            internship in a French start-up for 4 months in 2023. I was in charge of gathering 
             customers data, of CRM Management. I also took charge of automations between
             it and other tools thanks to a no-code plateform for more efficiency.
+          </p>
+          <p class="mb-4">
+            I also spent 2 months in Etablissement Français du Sang headquarters in the 
+            MIES section (Mission Innovation et Etudes Stratégiques) in 2021. Helping the team 
+            in the follow-up of news about innovations to implement on site, like an 
+            exosqueleton in the collect site. 
           </p>
 
           <p class="mb-5 hidden lg:flex">

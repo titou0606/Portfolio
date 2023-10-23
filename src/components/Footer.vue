@@ -177,7 +177,7 @@
             <p class="whitespace-nowrap">About</p>
           </div>
         </router-link>
-        <router-link
+        <!-- <router-link
           to="/blog"
           class="flex flex-col items-center justify-center">
           <div
@@ -200,7 +200,7 @@
             aria-current="page">
             <div class="whitespace-nowrap">Blogs</div>
           </div>
-        </router-link>
+        </router-link> -->
       </div>
     </div>
   </div>
